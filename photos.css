@@ -1,0 +1,20 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid #fc0303;
+    width: 63.33%;
+    padding-bottom: 20px;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7ef79a01f0a12450049b7d20cd10f93c&auto=format&fit=crop&w=900&q=60");
+}
